@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Andiswa829/HicoGroupProject/static/css/main.073c9b0a.css",
+    "main.js": "/Andiswa829/HicoGroupProject/static/js/main.7e6b49e2.js",
+    "static/js/498.6adb7640.chunk.js": "/Andiswa829/HicoGroupProject/static/js/498.6adb7640.chunk.js",
+    "static/js/703.65e2fe5a.chunk.js": "/Andiswa829/HicoGroupProject/static/js/703.65e2fe5a.chunk.js",
+    "static/js/38.0849a05f.chunk.js": "/Andiswa829/HicoGroupProject/static/js/38.0849a05f.chunk.js",
+    "static/js/787.7a1f6d17.chunk.js": "/Andiswa829/HicoGroupProject/static/js/787.7a1f6d17.chunk.js",
+    "index.html": "/Andiswa829/HicoGroupProject/index.html",
+    "main.073c9b0a.css.map": "/Andiswa829/HicoGroupProject/static/css/main.073c9b0a.css.map",
+    "main.7e6b49e2.js.map": "/Andiswa829/HicoGroupProject/static/js/main.7e6b49e2.js.map",
+    "498.6adb7640.chunk.js.map": "/Andiswa829/HicoGroupProject/static/js/498.6adb7640.chunk.js.map",
+    "703.65e2fe5a.chunk.js.map": "/Andiswa829/HicoGroupProject/static/js/703.65e2fe5a.chunk.js.map",
+    "38.0849a05f.chunk.js.map": "/Andiswa829/HicoGroupProject/static/js/38.0849a05f.chunk.js.map",
+    "787.7a1f6d17.chunk.js.map": "/Andiswa829/HicoGroupProject/static/js/787.7a1f6d17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7e6b49e2.js"
+  ]
+}
