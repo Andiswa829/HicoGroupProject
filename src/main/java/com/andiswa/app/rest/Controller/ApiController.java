@@ -23,6 +23,12 @@ public class ApiController {
         return employeeRepo.findAll();
     }
 
+    @GetMapping(value="/getEmployeeById/{id}")
+    public Employee getEmployeeById(@PathVariable long id){
+        Employee getEmployee = employeeRepo.findById(id).get();
+        return getEmployee;
+    }
+
     @PostMapping(value = "/save")
     public String saveEmployee(@RequestBody Employee employee){
         employeeRepo.save(employee);
@@ -51,4 +57,6 @@ public class ApiController {
 
         return "Delete user with user id "+id;
     }
+
+
 }
